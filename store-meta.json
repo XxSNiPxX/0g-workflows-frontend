@@ -1,0 +1,22 @@
+{
+  "0xaf9302898b89db03d94716fb5fe0774883da180a5502ca73a806714776a3a347": {
+    "type": "text",
+    "filename": "input.txt",
+    "created": 1777769604056
+  },
+  "0x4c18cdfec7aa7e0a8f9f2ce77d04288bdd54caef3c845ac61f7b4ebe2a1bd1cd": {
+    "type": "text",
+    "filename": "input.txt",
+    "created": 1777769639988
+  },
+  "0x70f18fd0b29735bd2b66eef338f0a1ba16a6e8d8f1e8f25dcf9de11823e024a2": {
+    "type": "json",
+    "filename": "wallet-4UcdMLbT.json",
+    "created": 1777769950779
+  },
+  "0xd913185342dc4be3ce307f106ef289ffed4eafb2609fd5b7ca47cbde2cdbef7c": {
+    "type": "pdf",
+    "filename": "wallet-report.pdf",
+    "created": 1777769962585
+  }
+}

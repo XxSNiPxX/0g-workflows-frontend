@@ -1,0 +1,39 @@
+{
+  "rpc": "https://evmrpc-testnet.0g.ai/",
+  "users": [
+    {
+      "address": "0xee5D8fEaa87eAeACcaaBB676983Ab71B99Fb4faf",
+      "privateKey": "0xc8aaab9297ef04fcd75cc6f404dbf20583e74df495257315c002a66c37aee869"
+    },
+    {
+      "address": "0x83aecB8b6f1f49CDA007BFd9F1aF8bEd30955F63",
+      "privateKey": "0x43a3042905ac2342ab1ea7d82e572554b5ed6bf8bbae1dcfe071e9d72246e589"
+    },
+    {
+      "address": "0x15d6735A93Ec1F71182ce9aC8d8e89B3ce87a429",
+      "privateKey": "0xd7927711ba0410560873652d36a2d227b977484379da3d867f498a7bcf65b52e"
+    },
+    {
+      "address": "0xA9E9952f994f08806Ba4510EAe8C35b545e0FB8A",
+      "privateKey": "0x14336fa88b1952a5d5bb29ba4369a80519898743c1a751cc99628044271dcb1b"
+    },
+    {
+      "address": "0xe5A9826D9Cd6da16a2Fb3b3713213a60EB844e5a",
+      "privateKey": "0xef7a2643fd8943afa531db9b61073eb5288df4dc00e06f90348ec39dffbb8cb3"
+    }
+  ],
+  "agents": [
+    {
+      "address": "0x1FBd34404691950f19b77aF2e69797A8D8d13cD1",
+      "privateKey": "0x33c8a485d6f26980cd30f8e52659b6028caccf694e22430954caff5328614580"
+    },
+    {
+      "address": "0xDE0A753C33622D4D6352D3B5D69D23fe8517D74D",
+      "privateKey": "0x6e231ccd04c736e038174354cd066ad66e1160a59b23389b14d04ab77341f367"
+    },
+    {
+      "address": "0x8e642F832d93EB75395D52699b3336484DC81B4f",
+      "privateKey": "0x04e46691e6272d978c89bb2ce6a2dbcabba422125a1c110520aa25467dd29ea0"
+    }
+  ]
+}

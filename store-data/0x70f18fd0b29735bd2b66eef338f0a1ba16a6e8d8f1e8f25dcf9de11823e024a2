@@ -1,0 +1,26 @@
+{
+  "address": "4UcdMLbT1U3AcmpyhSQoa2voSh5fHAFJZDWd4qypmg4J",
+  "solBalance": 2.369098194,
+  "tokens": [
+    {
+      "mint": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+      "amount": 156.05492,
+      "decimals": 6,
+      "symbol": "Es9vMFrz"
+    },
+    {
+      "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "amount": 78.816954,
+      "decimals": 6,
+      "symbol": "EPjFWdd5"
+    },
+    {
+      "mint": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
+      "amount": 0.290643,
+      "decimals": 6,
+      "symbol": "4k3Dyjzv"
+    }
+  ],
+  "fetchedAt": "2026-05-03T00:59:10.765Z",
+  "network": "mainnet-beta"
+}
